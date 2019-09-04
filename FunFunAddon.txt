@@ -1,0 +1,10 @@
+## Title: FunFunAddon
+## Author: DemDem
+## APIVersion: 100025
+## AddOnVersion: 001
+## Version: 0.0.1
+## IsLibrary: false
+## SavedVariables: FunFunAddonSavedVariables
+
+FunFunAddon.xml
+FunFunAddon.lua
